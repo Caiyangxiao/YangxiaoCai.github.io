@@ -44,9 +44,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>Yangxiao Cai</b>, Peng Liang, Yifei Wang, Zengyang Li, Mojtaba Shahin. Demystifying Issues, Causes and Solutions in LLM Open-Source Projects. _Journal of Systems and Software_, 227 (2025), 112452.
+* Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, <b>Yangxiao Cai</b>. An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors. _arXiv_ preprint arXiv:2401.16310 (2024).
   
 Awards
 ======
