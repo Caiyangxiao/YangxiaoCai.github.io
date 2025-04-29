@@ -11,36 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Software Engineering, Wuhan University, Sept. 2024 ~ June 2026, GPA: 3.57/4.0
-<br> <b>courses</b>: Mathematical Modeling and Optimization, Open-Source Software Design and Development, New Technology of Demand Engineering, Software Testing and Practice, Introduction to Artificial Intelligence
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Technology, Wuhan University, Sept. 2020 ~ June 2024, GPA: 3.84/4.0
+<br> <b>Courses</b>: Advanced Programming Language Design, Data Structure, Computer Organization and Design, Operating Systems, Computer Graphics, Principles of Compiler, Machine Learning and Pattern Recognition, The Design and Analysis of Algorithms, Mobile Programming 
+* M.S. in Software Engineering, Wuhan University, Sept. 2024 ~ June 2026 (expected), GPA: 3.57/4.0
+<br> <b>Courses</b>: Mathematical Modeling and Optimization, Open-Source Software Design and Development, New Technology of Demand Engineering, Software Testing and Practice, Introduction to Artificial Intelligence
 
-Work experience
+Project experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June. 2023 – Sept. 2023: Client Development Intern (Beijing, China)
+  _<b>Intern at</b>: Beijing Dajia Internet Information Technology (Kuaishou) Co., Ltd., China_
+  * Implemented core feature requirements and resolved high-priority bugs for the Beauty module in both internal and external releases of Kuaishou BeYoung, using C++ and QML
+  * Delivered high-priority feature development and bug fixes for Face Stickers and Special Effects Background Stickers modules
+  * Developed beauty asset compression and adaptive image resource functionality, contributing to the engineering effort of reducing application package size
+  * Designed and implemented reusable custom components, successfully integrating them into production feature development
+  * Refactored and resolved historical bugs, including functionality redesign and optimization
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2024 – Oct. 2024: Independent Programmer (Wuhan, China)
+  _Online Taxi Application_
+  * Developed a taxi microservices web application based on project requirements using the Spring Boot framework
+  * Designed and implemented three core microservices (Passenger, Driver, and Payment)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2023 – May 2023: Research Assistant (Wuhan, China)
+  _Online Microservice Deployment Algorithm_
+  * Developed a Dueling Deep Q-Network (DQN)-based model to predict user mobility patterns in real time, enabling edge servers to proactively prepare for user arrivals and manage data removal upon departures
+  * Applied neural network techniques and reinforcement learning principles using PyTorch to enhance prediction accuracy and optimize microservice deployment efficiency
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <b>Language</b>: Mandarin, English
+* <b>Programming Languages</b>: Python, C/C++, Java, Swift
+* <b>Software</b>: LaTeX (Overleaf), Visio, Word, Excel, PowerPoint
 
 Publications
 ======
@@ -48,18 +48,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+Third Prize, Python Programming (University Group A), 13th Lanqiao Cup National Software and Information Technology Professional Talent Competition, Hubei Province Division                                                                                          Apr. 2022
+Second Prize, 10th Hubei Province College Student Mathematics Competition (Non-Mathematics Major Category) Oct. 2021
+Outstanding Student, School of Computer Science, Academic Years                                            Oct. 2020 & Oct. 2022
+Third-Class Scholarship, School of Computer Science, Academic Years                                        Oct. 2020 & Oct. 2022
+Second Prize, Preliminary Round of the "FLTRP & ETIC Cup" National English Reading Competition             Dec.2022
+Outstanding Graduation Project, Class of 2024, School of Computer Science, Wuhan University                June 2024   
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
