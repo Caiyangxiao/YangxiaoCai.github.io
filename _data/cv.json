@@ -1,152 +1,101 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Yangxiao Cai",
+    "email": "yangxiaocai@whu.edu.cn",
+    "phone": "+86 18571951898",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Wuhan",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=DkpLtTYAAAAJ&hl=zh-CN"
       },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
+
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Yangxiao Cai",
+        "url": "https://github.com/Caiyangxiao"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Wuhan University",
+      "area": "M.S. in Software Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "Sept. 2024",
+      "endDate": "June 2026",
+      "gpa": "3.57/4.0",
+      "courses": ["Mathematical Modeling and Optimization", 
+                  "Open-Source Software Design and Development", 
+                  "New Technology of Demand Engineering", 
+                  "Software Testing and Practice", 
+                  "Introduction to Artificial Intelligence"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Wuhan University",
+      "area": "B.S. in Computer Science and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "startDate": "Sept. 2020",
+      "endDate": "June 2024",
+      "gpa": "3.84/4.0",
+      "courses": ["Advanced Programming Language Design", 
+                  "Data Structure", 
+                  "Computer Organization and Design", 
+                  "Operating Systems", "Computer Graphics", 
+                  "Principles of Compiler", 
+                  "Machine Learning and Pattern Recognition", 
+                  "The Design and Analysis of Algorithms", 
+                  "Mobile Programming"]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": ["drum kit",
+             "Cha-cha dance",
+             "Rumba dance",
+             "cycling",
+             "breaststroke"],
+  "languages": ["Mandarin","English"],
+  "interests": ["Software Architecture and Design",
+                "Artificial Intelligence for Software Engineering",
+                "Empirical Software Engineering",
+                "LLM-based Multi-agent Software System",
+                "Large Language Models"],
+  "references": [
+    {"name": "Prof. Dr. Peng Liang",
+     "School": "School of Computer Science \n Wuhan University, Wuhan, China",
+     "email": "liangp@whu.edu.cn"},
+    {"name": "Dr. Mojtaba Shahin",
+     "School": "Faculty of Information Technology \n Monash University, Melbourne, Australia",
+     "email": "mojtaba.shahin@monash.edu"
+    },
+    {"name": "Dr. Zengyang Li",
+     "School": "School of Computer Science \n Hubei Provincial Key Laboratory of Artificial Intelligence and Smart Learning, Central China Normal University, China",
+     "email": "zengyangli@ccnu.edu.cn"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Demystifying Issues, Causes and Solutions in LLM Open-Source Projects",
+      "author": "<b>Yangxiao Cai</b>, Peng Liang, Yifei Wang, Zengyang Li, Mojtaba Shahin",
+      "publisher": "Journal of Systems and Software",
+      "releaseDate": "2025",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0164121225001207"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors",
+      "author": "Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, <b>Yangxiao Cai</b>",
+      "publisher": "arXiv",
+      "releaseDate": "2024",
+      "website": "https://arxiv.org/abs/2401.16310"
     }
   ]
 }
