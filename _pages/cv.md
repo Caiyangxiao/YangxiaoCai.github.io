@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. in Software Engineering, Wuhan University, Sept. 2024 ~ June 2026, GPA: 3.57/4.0
+<br> <b>courses</b>: Mathematical Modeling and Optimization, Open-Source Software Design and Development, New Technology of Demand Engineering, Software Testing and Practice, Introduction to Artificial Intelligence
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
