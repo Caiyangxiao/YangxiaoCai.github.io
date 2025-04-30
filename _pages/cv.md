@@ -49,17 +49,13 @@ Publications
   
 Awards
 ======
-Third Prize, Python Programming (University Group A), 13th Lanqiao Cup National Software and Information Technology Professional Talent Competition, Hubei Province Division                                                                                          Apr. 2022
-<br>Second Prize, 10th Hubei Province College Student Mathematics Competition (Non-Mathematics Major Category) Oct. 2021
-<br>Outstanding Student, School of Computer Science, Academic Years                                            Oct. 2020 & Oct. 2022
-<br>Third-Class Scholarship, School of Computer Science, Academic Years                                        Oct. 2020 & Oct. 2022
-<br>Second Prize, Preliminary Round of the "FLTRP & ETIC Cup" National English Reading Competition             Dec.2022
-<br>Outstanding Graduation Project, Class of 2024, School of Computer Science, Wuhan University                June 2024   
+Third Prize, Python Programming (University Group A), 13th Lanqiao Cup National Software and Information Technology Professional Talent Competition, Hubei Province Division. _Apr. 2022_
+<br>Second Prize, 10th Hubei Province College Student Mathematics Competition (Non-Mathematics Major Category). _Oct. 2021_
+<br>Outstanding Student, School of Computer Science, Academic Years. _Oct. 2020 & Oct. 2022_
+<br>Third-Class Scholarship, School of Computer Science, Academic Years. _Oct. 2020 & Oct. 2022_
+<br>Second Prize, Preliminary Round of the "FLTRP & ETIC Cup" National English Reading Competition. _Dec.2022_
+<br>Outstanding Graduation Project, Class of 2024, School of Computer Science, Wuhan University. _June 2024_   
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
