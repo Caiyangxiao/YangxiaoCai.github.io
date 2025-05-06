@@ -38,7 +38,7 @@ Project experience
   
 Skills
 ======
-* <b>Language</b>: Mandarin, English
+* <b>Language</b>: Mandarin, English (<b>IELTS</b> : 7.0)
 * <b>Programming Languages</b>: Python, C/C++, Java, Swift
 * <b>Software</b>: LaTeX (Overleaf), Visio, Word, Excel, PowerPoint
 
