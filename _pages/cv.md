@@ -16,6 +16,12 @@ Education
 * M.S. in Software Engineering, Wuhan University, Sept. 2024 ~ June 2026 (expected), GPA: 3.57/4.0
 <br> <b>Courses</b>: Mathematical Modeling and Optimization, Open-Source Software Design and Development, New Technology of Demand Engineering, Software Testing and Practice, Introduction to Artificial Intelligence
 
+Publications
+======
+* <b>Yangxiao Cai</b>, Peng Liang, Yifei Wang, Zengyang Li, Mojtaba Shahin. Demystifying Issues, Causes and Solutions in LLM Open-Source Projects. _Journal of Systems and Software_, 227 (2025), 112452.
+* Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, <b>Yangxiao Cai</b>. An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors. _arXiv_ preprint arXiv:2401.16310 (2024).
+* Ruiyin Li, Peng Liang, Yifei Wang, <b>Yangxiao Cai</b>, Weisong Sun, Zengyang Li. Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub. _ACM Transactions on Software Engineering and Methodology_ (under review), 2025.
+
 Project experience
 ======
 * June. 2023 – Sept. 2023: Client Development Intern (Beijing, China)
@@ -41,12 +47,6 @@ Skills
 * <b>Language</b>: Mandarin, English (<b>IELTS</b>: 7.0)
 * <b>Programming Languages</b>: Python, C/C++, Java, Swift
 * <b>Software</b>: LaTeX (Overleaf), Visio, Word, Excel, PowerPoint
-
-Publications
-======
-* <b>Yangxiao Cai</b>, Peng Liang, Yifei Wang, Zengyang Li, Mojtaba Shahin. Demystifying Issues, Causes and Solutions in LLM Open-Source Projects. _Journal of Systems and Software_, 227 (2025), 112452.
-* Jiaxin Yu, Peng Liang, Yujia Fu, Amjed Tahir, Mojtaba Shahin, Chong Wang, <b>Yangxiao Cai</b>. An Insight into Security Code Review with LLMs: Capabilities, Obstacles and Influential Factors. _arXiv_ preprint arXiv:2401.16310 (2024).
-* Ruiyin Li, Peng Liang, Yifei Wang, <b>Yangxiao Cai</b>, Weisong Sun, Zengyang Li. Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub. _ACM Transactions on Software Engineering and Methodology_ (under review), 2025.
   
 Awards
 ======
